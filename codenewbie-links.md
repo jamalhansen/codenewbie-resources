@@ -65,6 +65,16 @@ https://twitter.com/divinetechygirl
 ![Blog](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/blog.png)
 http://www.codenewbie.org/blogs/i-am-christina
 
+### Christopher C. Johnson
+![Twitter](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/twitter.png)
+https://twitter.com/Programazing
+
+![Blog](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/blog.png)
+http://www.thatamazingprogrammer.com/
+
+![Blog RSS](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/feed.png)
+http://www.thatamazingprogrammer.com/feed/
+
 ### Clifton Craig
 ![Twitter](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/twitter.png)
 https://twitter.com/cliftonC76
