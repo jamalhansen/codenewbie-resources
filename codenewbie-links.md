@@ -262,6 +262,15 @@ http://thisdevsjourney.com
 ![Livestream](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/video.png)
 https://www.livecoding.tv/twhite96/
 
+### Zac Braddy (The Reactionary)
+![Twitter](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/twitter.png)
+https://twitter.com/reactionaryjs
+
+![Blog](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/blog.png)
+http://thereactionary.net
+
+![Youtube](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/video.png)
+https://www.youtube.com/channel/UCHgDwCRp7T311ItY0XCUhGA
 
 
 
