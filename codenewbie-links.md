@@ -215,6 +215,15 @@ https://twitter.com/saronyitbarek
 ![Blog](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/blog.png)
 http://www.codenewbie.org/blogs/my-bootcamp-experience
 
+### Sharmad Nachnolkar
+![Twitter](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/twitter.png)
+https://twitter.com/sharmad91
+
+![Blog](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/blog.png)
+https://logicalstupid.com/
+
+![Blog RSS](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/feed.png)
+https://logicalstupid.com/feed/
 
 ### Steven W. Klassen
 ![Twitter](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/twitter.png)
@@ -225,7 +234,6 @@ http://mrxinu.com/
 
 ![Blog RSS](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/feed.png)
 http://mrxinu.com/feed
-
 
 ### Transition
 ![Twitter](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/twitter.png)
