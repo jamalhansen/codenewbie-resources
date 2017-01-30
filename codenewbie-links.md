@@ -38,6 +38,16 @@ http://www.adavis.info/
 ![Blog RSS](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/feed.png)
 http://feeds.feedburner.com/TechyInfo
 
+### Assortment
+![Twitter](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/twitter.png)
+https://twitter.com/assortmentio
+
+![Blog](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/blog.png)
+https://assortment.io
+
+![Blog RSS](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/feed.png)
+http://feeds.feedburner.com/Assortmentio
+
 ### Ben Halpern
 ![Twitter](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/twitter.png)
 https://twitter.com/bhalp1
