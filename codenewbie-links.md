@@ -192,6 +192,8 @@ http://howiscience.tumblr.com/rss
 ![Twitter](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/twitter.png)
 https://twitter.com/waterproofheart
 
+![Blog](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/blog.png)http://www.datalogues.com
+
 ![Blog](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/blog.png)
 http://blacktechdiva.com
 
